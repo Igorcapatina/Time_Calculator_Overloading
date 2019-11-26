@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5617a723-5ee3-498d-bd7b-487e0251abae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/com/udemy/igor/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/com/udemy/igor/SecondsAndMinutes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/igor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/igor/SecondsAndMinutes.java" afterDir="false" />
-    </list>
+    <list default="true" id="5617a723-5ee3-498d-bd7b-487e0251abae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
